@@ -1,0 +1,7 @@
+
+
+2023-12-10 15:15:46,553 - INFO - Requested operation: add
+2023-12-10 15:15:46,553 - ERROR - Error performing addition: Матрицы должны иметь одинаковые размеры
+2023-12-10 15:15:57,728 - INFO - Requested operation: multiply
+2023-12-10 15:16:19,009 - INFO - Requested operation: add
+2023-12-10 15:16:48,009 - INFO - Requested operation: add
